@@ -1,8 +1,9 @@
 {
-    "name": "quintly/quintly-api-demo",
+    "name": "kasitmp/quintly-api-demo",
     "description": "A demonstration on how to retrieve data from the quintly api",
     "type": "example",
     "require": {
+        "php": ">=5.5",
         "guzzlehttp/guzzle": "^6.2"
     },
     "license": "MIT",

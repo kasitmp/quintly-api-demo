@@ -4,7 +4,7 @@ A short demo on how to use the quintly api.
 
 ## Before you start
 1. Make sure you have quintly api credentials.
-2. Make sure you use php>=5.6
+2. Make sure you use php>=5.5
 3. Install [composer](https://getcomposer.org/download)
 
 ## Getting started
