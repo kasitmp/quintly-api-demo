@@ -1,0 +1,15 @@
+{
+    "name": "quintly/quintly-api-demo",
+    "description": "A demonstration on how to retrieve data from the quintly api",
+    "type": "example",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karsten Lettow",
+            "email": "kasitmp@gmail.com"
+        }
+    ]
+}
